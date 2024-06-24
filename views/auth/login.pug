@@ -1,0 +1,23 @@
+extends ../layout/index
+
+block contenido
+	.py-10.text-white
+		h1.text-center.text-4x1.font-extrabold Bien
+			span.font.normal Raiz
+		h3.text-center.text-3x1.font-extrabold= pagina
+
+		.mt-8.mx-auto.max-w-md
+			.bg-neutral-800.py-8.px-4.shadow
+				form.space-y-5(method="POST" action="/auth/login" noValidate)
+					input(type="hidden", name="_csrf" value=csrfToken)
+					div
+						label.block.text-sm.uppercase.text-teal-500.mb-3.font-bold(for="cuenta") Cuenta o correo electrónico:
+						input.text-lime-300.bg-neutral-700.nombre.w-full.px-3.py-2.border.border-gray-300.rounded-md.placeholder-gray-200(placeholder="Cuenta" type="text" name="email")
+					div
+						label.block.text-sm.uppercase.text-teal-500.mb-3.font-bold(for="password") Contraseña:
+						input.text-lime-300.bg-neutral-700.nombre.w-full.px-3.py-2.border.border-gray-300.rounded-md.placeholder-gray-200(placeholder="Password" type="password" name="password")
+
+					div.flex.items-center.justify-between
+						a.text-gray.text-xs(href="/auth/register") ¿no tienes una tienes cuenta? Registrese
+						a.text-gray.text-xs(href="/auth/recover") Olvidé password
+					input(class="w-full shadow-md bg-teal-900 hover:bg-teal-800 text-black-500 font-bold py-3 cursor-pointer" type="submit" value="Iniciar sesión")

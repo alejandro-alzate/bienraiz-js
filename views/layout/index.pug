@@ -1,0 +1,14 @@
+doctype html
+html(lang="en")
+	head
+		meta(charset="UTF-8")
+		meta(name="viewport", content="width=device-width, initial-scale=1.0")
+		title Bien raiz | #{pagina}
+		link(rel="stylesheet", href="/css/app.css")
+		block styles
+	body.min-h-screen.bg-neutral-900
+		
+		main(class="mx-auto container-mt10 px-2")
+			block contenido
+
+		block scripts

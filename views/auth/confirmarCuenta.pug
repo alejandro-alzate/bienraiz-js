@@ -1,0 +1,16 @@
+extends ../layout/index
+
+block contenido
+	.py-10.text-white
+		h1.text-4xl.my-10.font-extrabold.text-center Bien
+			span.font-normal Raiz
+		h3.text-center.text3xl.font-extrabold= pagina
+
+	div.bg-neutral-800.shadow.py-8.px-4.rounded-lg.max-w-md.mx-auto
+		p(class= error ? "bg-red-900" : "bg-green-900").py-2.px-5.rounded-lg.w-full.font-bold.text-center.text-white.uppercase= mensaje
+
+		if !error
+			a(href="/auth/login").text-center.font-bold.text-sm.text-slate-600.uppercase.mt-10.block.text-white Ya puede iniciar sesión
+
+	form(style="hidden")
+		input(type="hidden", name="_csrf" value=csrfToken)

@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"config"
+			],
+			[
+				"fro",
+				"formularioRegistro"
+			],
+			[
+				"for",
+				"formularioRecuperar"
+			],
+			[
+				"pass",
+				"pass-repeat"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pos",
+				"postcss"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"customi",
+				"UI: Customize Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"temr",
+				"Terminal: Open"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ"
+	],
+	"file_history":
+	[
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/models/usuarios.js",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/.env",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/views/layout/index.pug",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/views/auth/entrar.pug",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/views/auth/recuperar.pug",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/views/auth/registro.pug",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/index.js",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/package.json",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/config/db.js",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/config/env.js",
+		"/D/BIENRAIZ/package.json",
+		"/D/bfi.lua",
+		"/D/BIENRAIZ/index.js",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/routes/usuarioRoute.js",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/controller/usuarioController.js",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/views/auth/login.pug",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/public/css/tailwind.css",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/tailwind.config.mjs",
+		"/C/Users/AutomatizacionPrueba/Desktop/BIENRAIZ/package-lock.json",
+		"/C/Users/AutomatizacionPrueba/Desktop/games/Move.or.Die.v17.3.1/main.lua",
+		"/C/Users/AutomatizacionPrueba/Desktop/games/Move.or.Die.v17.3.1/start_linux32.sh",
+		"/C/Users/AutomatizacionPrueba/Desktop/choco installer/install.bat",
+		"/C/Users/AutomatizacionPrueba/Downloads/Move.or.Die.v17.3.1/conf.lua",
+		"/C/Users/AutomatizacionPrueba/Downloads/Move.or.Die.v17.3.1/main.lua",
+		"/C/Users/AutomatizacionPrueba/Downloads/install.ps1"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"config",
+			"DB",
+			"DB_NAME",
+			"process",
+			"'",
+			"    ",
+			"BD",
+			"text-lime-200",
+			"text-lime-500",
+			"text-gray-500",
+			".bg-white",
+			"24",
+			"\"nombre\"",
+			"nombre",
+			"login",
+			"s-r",
+			"-",
+			"text",
+			"nombre",
+			"text",
+			"nombre",
+			"}\n",
+			"base",
+			"usuarioRoutes",
+			"usuarioController",
+			"login",
+			"//",
+			"'",
+			"\"",
+			"{m",
+			"json"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
